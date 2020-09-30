@@ -7,6 +7,8 @@ permalink: /
 
 Data science capstone domain of inquiry (DSC 180AB B01)
 
+### Under construction
+
 Developed by Gal Mishne, Alex Cloninger
 
 ---
@@ -59,7 +61,7 @@ end of the quarter.
 |--|--|
 |1|[Introduction]({{ "weeks/01-Introduction" | absolute_url }})|
 |2|[Graph-based Data]({{ "/weeks/02-Data" | absolute_url }})|
-|3|[Graph Neural Networks"]({{ "/weeks/03-Graph-Methods-I" | absolute_url }})|
+|3|[Graph Neural Networks]({{ "/weeks/03-Graph-Methods-I" | absolute_url }})|
 |4|[Graph Embeddings]({{ "/weeks/04-Graph-Methods-II" | absolute_url }})|
 |5|[Baseline Model]({{ "/weeks/05-Baseline-Model" | absolute_url }})|
 |6|[Learning Graphs from Data]({{ "/weeks/06-Graph-Learning" | absolute_url }})|
