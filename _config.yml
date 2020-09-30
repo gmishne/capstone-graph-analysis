@@ -1,7 +1,7 @@
 safe: true
-title: "Capstone Domain: Wikipedia"
+title: "Capstone Domain: Graph Data Analysis”
 source: .
 destination: _site
-url: "https://afraenkel.github.io"
-baseurl: "/capstone-wiki-domain"
+url: "https://gmishne.github.io"
+baseurl: "/capstone-graph-analysis”
 permalink: /:url/
