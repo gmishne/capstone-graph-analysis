@@ -62,8 +62,8 @@ end of the quarter.
 |3|[Graph Neural Networks"]({{ "/weeks/03-Graph-Methods-I" | absolute_url }})|
 |4|[Graph Embeddings]({{ "/weeks/04-Graph-Methods-II" | absolute_url }})|
 |5|[Baseline Model]({{ "/weeks/05-Baseline-Model" | absolute_url }})|
-|6|["Learning Graphs from Data"]({{ "/weeks/06-Graph-Learning" | absolute_url }})|
-|7|["Benchmaring Graph neural networks"]({{ "/weeks/07-Benchmark" | absolute_url }})|
+|6|[Learning Graphs from Data]({{ "/weeks/06-Graph-Learning" | absolute_url }})|
+|7|[Benchmaring Graph neural networks]({{ "/weeks/07-Benchmark" | absolute_url }})|
 |8|[Ext #2]({{ "/weeks/08-Ext-2" | absolute_url }})|
 |9|[Ext #3]({{ "/weeks/09-Ext-3" | absolute_url }})|
 |10|Present Proposals|
