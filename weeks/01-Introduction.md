@@ -16,7 +16,7 @@ This week's assignments will guide you through the following topics:
 ## Reading
 
 Please read the following:
-- Section 2 and 3 of  [[A tutorial on spectral clustering]](https://link.springer.com/article/10.1007/s11222-007-9033-z), von Luxburg, 2007 
+- Section 2 and 3 of  [A tutorial on spectral clustering](https://link.springer.com/article/10.1007/s11222-007-9033-z), von Luxburg, 2007 
 - Intro blog?
   
 
