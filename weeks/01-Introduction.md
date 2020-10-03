@@ -6,6 +6,8 @@ doodle: /doodle.png
 
 # Introduction
 
+## Note this page is under construction and will be updated Saturday Oct 2.
+
 ## Topics
 
 This week's assignments will guide you through the following topics:
