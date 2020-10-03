@@ -5,7 +5,7 @@ doodle: /doodle.png
 ---
 
 # Introduction
-This domain centers on an augmeneted data-type: graph-based data, and a class of methods used to analyze such data: geometric deep learning / graph neural networks. The week will provide an motivation and introduciton to both topics.
+This domain centers on an augmeneted data-type: graph-based data, and a class of methods used to analyze such data: geometric deep learning / graph neural networks. The week will provide motivation and an introduciton to both topics.
 
 ## Topics
 
