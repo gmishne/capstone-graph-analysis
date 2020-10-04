@@ -32,12 +32,11 @@ While a vast array of machine learning techniques rely on graphs and graph-based
 
 ## Result replication (introduction to topic)
 
-We will delve into this area via the following primary paper:
+We will delve into this area via the following two papers:
+- [Inductive Representation Learning on Large Graphs](https://www-cs.stanford.edu/~jure/pubs/graphsage-nips17.pdf), Hamilton, Ying and Leskovec, NeurIPS 2017
+- [Unifying Graph Convolutional Neural Networks and Label Propagation](https://arxiv.org/pdf/2002.06755)
 
-
-The latter-half of Quarter 1 will introduce you to other topics to
-inform possible avenues for further research:
-
+and replicate results on datasets from [Open graph benchmark: Datasets for machine learning on graphs](https://arxiv.org/abs/2005.00687)
 
 
 # COVID-19
@@ -69,12 +68,12 @@ end of the quarter.
 |1|[Introduction]({{ "weeks/01-Introduction" | absolute_url }})|
 |2|[Graph-based Data]({{ "/weeks/02-Data" | absolute_url }})|
 |3|[Graph Neural Networks]({{ "/weeks/03-Graph-Methods-I" | absolute_url }})|
-|4|[Graph Embeddings]({{ "/weeks/04-Graph-Methods-II" | absolute_url }})|
+|4|[Label Propogation]({{ "/weeks/04-Label-Propogation" | absolute_url }})|
 |5|[Baseline Model]({{ "/weeks/05-Baseline-Model" | absolute_url }})|
 |6|[Learning Graphs from Data]({{ "/weeks/06-Graph-Learning" | absolute_url }})|
 |7|[Benchmaring Graph neural networks]({{ "/weeks/07-Benchmark" | absolute_url }})|
-|8|[Ext #2]({{ "/weeks/08-Ext-2" | absolute_url }})|
-|9|[Ext #3]({{ "/weeks/09-Ext-3" | absolute_url }})|
+|8|[Ethics in network analysis]({{ "/weeks/08-ethics" | absolute_url }})|
+|9|[Graph Embeddings]({{ "/weeks/09-Graph-Methods-II" | absolute_url }})|
 |10|Present Proposals|
 
 ---

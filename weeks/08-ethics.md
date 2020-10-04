@@ -1,10 +1,10 @@
 ---
 layout: week
-title: Week 00
+title: Week 08
 doodle: /doodle.png
 ---
 
-# Futher Topics #2
+# Ethics
 
 ## Topics
 

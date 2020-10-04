@@ -15,7 +15,7 @@ This week's assignments will guide you through the following topics:
 ## Reading
 
 Please read the following:
-*  [Graph Convolutional Networks](http://tkipf.github.io/graph-convolutional-networks/)
+*[Graph Convolutional Networks](http://tkipf.github.io/graph-convolutional-networks/)
 * Graph convolution vs image convolution [tutorial](https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d)
 
 

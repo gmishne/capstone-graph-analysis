@@ -1,22 +1,22 @@
 ---
 layout: week
-title: Week 00
+title: Week 04
 doodle: /doodle.png
 ---
 
-# Futher Topics #3
+# Label Propogation
 
 ## Topics
 
 This week's assignments will guide you through the following topics:
-* topic 1
+* Label Propogation
 * topic 2
 
 ## Reading
 
 Please read the following:
 * reading 1
-* reading 2
+* [Unifying Graph Convolutional Neural Networks and Label Propagation](https://arxiv.org/pdf/2002.06755)
 
 ## Tasks
 
