@@ -7,8 +7,6 @@ permalink: /
 
 Data science capstone domain of inquiry (DSC 180AB B01)
 
-### Under construction
-
 Developed by Gal Mishne, Alex Cloninger
 
 ---
@@ -34,7 +32,7 @@ While a vast array of machine learning techniques rely on graphs and graph-based
 
 We will delve into this area via the following two papers:
 - [Inductive Representation Learning on Large Graphs](https://www-cs.stanford.edu/~jure/pubs/graphsage-nips17.pdf), Hamilton, Ying and Leskovec, NeurIPS 2017
-- [Unifying Graph Convolutional Neural Networks and Label Propagation](https://arxiv.org/pdf/2002.06755)
+- [Unifying Graph Convolutional Neural Networks and Label Propagation](https://arxiv.org/pdf/2002.06755), Wang and Leskovec 2020
 
 and replicate results on datasets from [Open graph benchmark: Datasets for machine learning on graphs](https://arxiv.org/abs/2005.00687)
 
