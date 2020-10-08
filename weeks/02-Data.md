@@ -9,7 +9,8 @@ doodle: /doodle.png
 ## Graph-based Data
 
 This week's assignments will guide you through the following topics:
-* Graph measures
+* Graph properties and measures
+* Graph construction 
 
 ## Reading
 
@@ -19,18 +20,18 @@ Please read the following:
 
 
 ### Replication task
-This week we will begin reading the [GraphSage]((https://www-cs.stanford.edu/~jure/pubs/graphsage-nips17.pdf),) paper. As you read through the paper, keep a list of phrases and terms you are unfamiliar  with.
+This week we will begin reading the [GraphSage](https://www-cs.stanford.edu/~jure/pubs/graphsage-nips17.pdf) paper. As you read through the paper, keep a list of phrases and terms you are unfamiliar  with.
 * Read the abstract and the conclusions.
-* Read Sections 1-2. Note for yourself 2-3 references that sound interesting to you.
+* Read Sections 1-2. Note 2-3 references that sound interesting to you.
 
 ## Tasks
 
 Complete the following tasks:
 1. SNAP
 * Explore the the [SNAP dataset collection](http://snap.stanford.edu/data/index.html) and download two datasets of different types.
-* Using [network]( https://networkx.github.io/) and/or [snap.py]( http://snap.stanford.edu/snappy/index.html) explore, compare the properties and visualize the two graphs. Report the graph metrics that you learned about in your reading. You may find these tutorials (1)[https://networkx.github.io/documentation/stable/tutorial.html], (2)[http://snap.stanford.edu/proj/snap-www/SNAP-WWW15-part3.pdf] helpful.
+* Using [network]( https://networkx.github.io/) and/or [snap.py]( http://snap.stanford.edu/snappy/index.html) explore, compare the properties and visualize the two graphs. Report the graph metrics that you learned about in your reading. You may find these tutorials [1](https://networkx.github.io/documentation/stable/tutorial.html), [2](http://snap.stanford.edu/proj/snap-www/SNAP-WWW15-part3.pdf) helpful.
 
-2. Cora
+2. Cora - 
 The Cora dataset consists of 2708 scientific publications classified into one of seven classes. The citation network consists of 5429 links. Each publication in the dataset is described by a 0/1-valued word vector indicating the absence/presence of the corresponding word from the dictionary. The dictionary consists of 1433 unique words. The README file in the dataset provides more details.
 [Download Link](https://linqs-data.soe.ucsc.edu/public/lbc/cora.tgz).
 * Download the Cora dataset.
