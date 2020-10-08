@@ -4,9 +4,7 @@ title: Week 02
 doodle: /doodle.png
 ---
 
-# Week's Title
-
-## Graph-based Data
+# Graph-based Data
 
 This week's assignments will guide you through the following topics:
 * Graph properties and measures
