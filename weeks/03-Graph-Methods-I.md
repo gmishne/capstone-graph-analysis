@@ -10,25 +10,24 @@ doodle: /doodle.png
 
 This week's assignments will guide you through the following topics:
 * An introduction to Graph Neural Networks
-* Build a graph neural network
+* Build a graph convolutional network
 
 ## Reading
 
 Please read the following:
-*[Graph Convolutional Networks](http://tkipf.github.io/graph-convolutional-networks/)
-*[Tutorial on Graph Neural Networks for Computer Vision and Beyond](https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d)
-*Read slides 10-44 from the [presentation on GCN and GraphSage](http://snap.stanford.edu/proj/embeddings-www/files/nrltutorial-part2-gnns.pdf)
+* [Graph Convolutional Networks](http://tkipf.github.io/graph-convolutional-networks/)
+* [Tutorial on Graph Neural Networks for Computer Vision and Beyond](https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d)
+* Read slides 10-44 from the [presentation on GCN and GraphSage](http://snap.stanford.edu/proj/embeddings-www/files/nrltutorial-part2-gnns.pdf)
 
 ### Replication task
-* Read Section 3 of the [GraphSage]((https://www-cs.stanford.edu/~jure/pubs/graphsage-nips17.pdf),) paper.
+* Read Section 3 of the [GraphSage](https://www-cs.stanford.edu/~jure/pubs/graphsage-nips17.pdf) paper.
 
 
 ## Tasks
 
 Complete the following tasks:
-* Run the [full training models]((https://github.com/bknyaz/examples/blob/master/fc_vs_graph_train.py) from the tutorial comparing a fully connected network (FCN), convolutional network (CNN) and graph convolutional network (GCN). Report the results.
-* Implement a 1-layer GCN and train it on a node classification task for the Cora dataset. The Cora dataset consists of 2708 scientific publications classified into one of seven classes. The citation network consists of 5429 links. Each publication in the dataset is described by a 0/1-valued word vector indicating the absence/presence of the corresponding word from the dictionary. The dictionary consists of 1433 unique words. The README file in the dataset provides more details.
-    [Download Link](https://linqs-data.soe.ucsc.edu/public/lbc/cora.tgz). Compare the performance of the GCN to an FCN and report the results.
+* Run the [full training models](https://github.com/bknyaz/examples/blob/master/fc_vs_graph_train.py) from the tutorial comparing a fully connected network (FCN), convolutional network (CNN) and graph convolutional network (GCN). Report the results.
+* Implement a 1-layer GCN and train it on a node classification task for the Cora dataset. Compare the performance of the GCN to an FCN and report the results.
 
 ## Weekly Questions
 
