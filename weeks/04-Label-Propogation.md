@@ -17,12 +17,12 @@ This week’s assignments will guide you through the following topics:
 
 ### Replication task.
 This week we will begin reading our second replication paper.
-*    Our second paper unifies GCN with Label propagation (LPA). Read the following [tutorial](https://towardsdatascience.com/label-propagation-demystified-cd5390f27472) and [slideshow](http://www.leonidzhukov.net/hse/2015/networks/lectures/lecture17.pdf)
-*    For the replication paper: [Unifying Graph Convolutional Neural Networks and Label Propagation](https://arxiv.org/pdf/2002.06755), complete the following reading tasks. As you read through the paper, keep a list of phrases and terms you are unfamiliar with.
-    * Quick read of Abstract, Conclusion, Introduction (section 1).
+1. Our second paper unifies GCN with Label propagation (LPA). Read the following [tutorial](https://towardsdatascience.com/label-propagation-demystified-cd5390f27472) and [slideshow](http://www.leonidzhukov.net/hse/2015/networks/lectures/lecture17.pdf)
+2. For the replication paper: [Unifying Graph Convolutional Neural Networks and Label Propagation](https://arxiv.org/pdf/2002.06755), complete the following reading tasks. As you read through the paper, keep a list of phrases and terms you are unfamiliar with.
+* Quick read of Abstract, Conclusion, Introduction (section 1).
 Careful read of the abstract, making sure you really understand it. You may need to look up terms.
-    * Carefully read sections 1 and 3.
-    * Optional: for those of you who want a few more details on Weisfeiler-Lehman Isomorphism test and its relation to GraphSage: https://towardsdatascience.com/expressive-power-of-graph-neural-networks-and-the-weisefeiler-lehman-test-b883db3c7c49
+* Carefully read sections 1 and 3.
+* Optional: for those of you who want a few more details on Weisfeiler-Lehman Isomorphism test and its relation to GraphSage: https://towardsdatascience.com/expressive-power-of-graph-neural-networks-and-the-weisefeiler-lehman-test-b883db3c7c49
 
 
 ## Tasks
@@ -35,11 +35,11 @@ Complete the following tasks
 
 ### Replication task
 This week we will start coding the replication task, breaking it up into parts.
-*  Implement the unsupervised loss in equation (1), section 3.2. This is loss we will be training the network with.
-*    Implement the mean aggregator and pooling aggregator in section 3.3 as a neural network layer. This class should have an initialization and a forward pass method.
-    *  For initialization the layer should receive as input arguments the layer input dimension, layer output dimensions, input dimension of the neighbors, nonlinear activation function.
-    *  For the forward pass, the input arguments are the embeddings of the node and the embedding of its neighbors.
-    *  There may be additional input arguments you need to add, based on your implementation
+1. Implement the unsupervised loss in equation (1), section 3.2. This is loss we will be training the network with.
+2. Implement the mean aggregator and pooling aggregator in section 3.3 as a neural network layer. This class should have an initialization and a forward pass method.
+*  For initialization the layer should receive as input arguments the layer input dimension, layer output dimensions, input dimension of the neighbors, nonlinear activation function.
+*  For the forward pass, the input arguments are the embeddings of the node and the embedding of its neighbors.
+*  There may be additional input arguments you need to add, based on your implementation
 
 
 
