@@ -28,8 +28,8 @@ Complete the following tasks:
 Implement a random walk of length *k* on a graph given the graph and an initial node as inputs.
 
 ### GCN-LPA
-The loss function of the [GCN-LPA model](https://arxiv.org/pdf/2002.06755) consists of two terms: <img src="https://render.githubusercontent.com/render/math?math=L_{gcn}"> which is the softmax loss applied to the output features of the GCN and <img src="https://render.githubusercontent.com/render/math?math=L_{lpa}"> which is the loss you implemented last week. This is the a softmax loss applied to the predicted labels obtained by *k* iterations of LPA.
-* Implement the full GCN-LPA loss
+The loss function of the [GCN-LPA model](https://arxiv.org/pdf/2002.06755) consists of two terms: <img src="https://render.githubusercontent.com/render/math?math=L_{gcn}"> which is the softmax loss applied to the output features of the GCN and <img src="https://render.githubusercontent.com/render/math?math=L_{lpa}"> which is the loss you implemented last week. This is a softmax loss applied to the predicted labels obtained by *k* iterations of LPA.
+* Implement the full GCN-LPA loss.
 * Implement a layer that performs Label Propagation: it applies label propagation (equations 1-2) for *k* iterations to an input of initial labels (<img src="https://render.githubusercontent.com/render/math?math=Y^{(0)}">), and its variables are the graph weighted adjacency matrix ***A***.
 * Implement the GCN layer in equation 16 using the random walk normalization <img src="https://render.githubusercontent.com/render/math?math=D^{-1}A"> you implemented last week. Its variables are both the trainable weight matrix ***W*** and the weighted adjacency matrix ***A***.
 * Next week we will put together the full model and train and evaluate a GCN-LPA. This end-to-end model will learn both ***A*** and ***W***. Note that in this framework the edges themselves are fixed (we are not adding or removing edges) and we are only learning the weights of existing edges.
