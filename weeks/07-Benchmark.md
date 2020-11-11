@@ -33,11 +33,11 @@ Complete the following tasks:
 ### GraphSage
 Two options (choose to perform either 1 or 2)
 
-1.	Finish implementing the GraphSage framework using the components you implemented in weeks 4 and 5.
+(1)	Finish implementing the GraphSage framework using the components you implemented in weeks 4 and 5.
 
 Or 
 
-2.	The following [repository](https://github.com/williamleif/graphsage-simple) has a basic pytorch implementation of GraphSage with a supervised loss and mean aggregator. 
+(2)	The following [repository](https://github.com/williamleif/graphsage-simple) has a basic pytorch implementation of GraphSage with a supervised loss and mean aggregator. 
 *	Based on the mean aggregator code, implement your own version of a pooling aggregator.
 *	Based on the random walk code you implemented last week, implement the unsupervised loss in equation 1. 
 
