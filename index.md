@@ -70,8 +70,8 @@ end of the quarter.
 |5|[Baseline Model]({{ "/weeks/05-Baseline-Model" | absolute_url }})|
 |6|[Random walks on graphs]({{ "/weeks/06-Random-walks" | absolute_url }})|
 |7|[Benchmaring Graph neural networks]({{ "/weeks/07-Benchmark" | absolute_url }})|
-|8|[Ethics in network analysis]({{ "/weeks/08-ethics" | absolute_url }})|
-|9|[Graph Embeddings]({{ "/weeks/09-Graph-Methods-II" | absolute_url }})|
+|8|[Graph Embeddings]({{ "/weeks/08-Graph-Methods-II" | absolute_url }})|
+|9|[Ethics in network analysis]({{ "/weeks/09-ethics" | absolute_url }})|
 |10|Present Proposals|
 
 ---
