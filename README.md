@@ -1,1 +1,1 @@
-# capstone-wiki-domain
+# capstone-graph-analysis-domain
