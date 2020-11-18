@@ -24,12 +24,20 @@ Building on the work of word2vec,  [node2vec](https://arxiv.org/pdf/1607.00653.p
 ## Reading
 Please go through  [word2vec-Explained](https://arxiv.org/pdf/1402.3722.pdf) and  [node2vec](https://arxiv.org/pdf/1607.00653.pdf) prior to this week's discussion. It is completely fine if you don't understand them completely but please try to understand the problem they are trying to solve.
 
+## Links
+[The Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/)\
+[Skip-Gram tutorial](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model)\
+[Word2Vec](https://arxiv.org/pdf/1301.3781.pdf)\
+[Word2Vec's extension](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)\
+[Word2Vec Explained](https://arxiv.org/pdf/1402.3722.pdf)\
+[DeepWalk](https://arxiv.org/pdf/1403.6652.pdf)\
+[node2vec](https://arxiv.org/pdf/1607.00653.pdf)\
+[node2vec tutorial](https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef)
 
-## Tasks
-
-Complete the following tasks:
-*
 
 ## Weekly Questions
 
-Answer the following questions
+Answer the following questions:
+Q1. What graph-based analysis problem is node2vec trying to solve? 
+Q2. How is node2vec different from GraphSage and GCN-LPA?
+Q3. Hoe is node2vec related to random walks?
