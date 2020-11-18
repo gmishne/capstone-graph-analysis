@@ -38,6 +38,9 @@ Please go through  [word2vec-Explained](https://arxiv.org/pdf/1402.3722.pdf) and
 ## Weekly Questions
 
 Answer the following questions:
+
 Q1. What graph-based analysis problem is node2vec trying to solve? 
+
 Q2. How is node2vec different from GraphSage and GCN-LPA?
+
 Q3. Hoe is node2vec related to random walks?
