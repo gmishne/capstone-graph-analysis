@@ -36,7 +36,7 @@ Using the supervised loss, compare GraphSage with mean aggregator to your implem
 
 ## Weekly Questions
 Answer the following questions:
-* Describe in your own words in 2-3 sentences how graph structures  played a role in the Cambridge Analytica Data scandal.
-* Describe in your own words in 2-3 sentences how graph structures  played a role in the Emotional contagion experiment.
+* Describe in your own words in 3-4 sentences what the ethical issue was in the Cambridge Analytica Data scandal and what role graph structures played.
+* Describe in your own words in 3-4 sentences what the ethical issue was in the Emotional contagion experiment and what role graph structures played.
 * For your own project proposal in the winter quarter, what ethical issues can raise from using graph based data?
 
